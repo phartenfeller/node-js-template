@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/phartenfeller/node-js-template.git",
-  "author": "phartenfeller <pharti@hotmail.de>",
+  "author": "phartenfeller",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
